@@ -1,0 +1,43 @@
+img:hover {
+	border-radius: 10px;
+}
+
+img:first-child {
+  height: 200px;
+  width: 300px;
+}
+
+img:nth-child(11) {
+  height: 600px;
+  width: 400px;
+  /*position: absolute;*/
+  /*float;
+  top: 100px;*/
+}
+
+img:nth-child(3) {
+  height:200px;
+  width: 200px;
+}
+
+h4 {
+	display: inline;
+	margin-right: 50px;
+}
+
+h2 {
+	color: #800000;
+}
+li:hover {
+	color: #CD853F;
+	font-size: 25px;
+}
+
+body {
+	background-color: #FFEFD5;
+}
+
+p {
+	color : red;
+
+}
